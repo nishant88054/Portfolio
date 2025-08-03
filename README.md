@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with **React** and styled with **Tailwind CSS**. This project showcases my skills, projects, and professional background in a clean and visually appealing format.
 
-![Portfolio Screenshot](https://placehold.co/800x400/334155/e2e8f0?text=Your+Portfolio+Screenshot)
+![Portfolio Screenshot](https://i.ibb.co/8Dj4tx5D/Screenshot-2025-08-04-013523.png)
 
 ---
 
