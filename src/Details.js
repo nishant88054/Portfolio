@@ -47,10 +47,10 @@ I'm currently seeking opportunities to leverage my full-stack skills in a challe
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/nishant-patel-228795250/",
+  github: "https://github.com/nishant88054",
+  twitter: "https://x.com/NishantPatel024",
+  instagram: "https://www.instagram.com/iampatelnishant/",
 };
 
 // Enter your Work Experience here
@@ -110,14 +110,14 @@ export const projectDetails = [
     image: projectImage2,
     description: `This is a personal portfolio website developed using React.js and Tailwind CSS. The project features a component-based architecture, responsive design implemented with Tailwind's utility classes, and smooth animations using CSS transitions. It's deployed as a static site, optimized for fast loading and a great user experience.`,
     techstack: "React.js, Tailwindcss",
-    previewLink: "https://www.google.com/search?q=Website+Available+SOON%21%21+%F0%9F%98%8A",
+    previewLink: "https://nishantpatel-portfolio.vercel.app/",
     githubLink: "https://github.com/nishant88054/Portfolio",
   },
   {
     title: "Project title 3",
     image: projectImage3,
     description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+project lorem ipsum generator for dummy content This is a personal portfolio website developed using React.js and Tailwind CSS. The project features a component-based architecture, responsive design implemented with Tailwind.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
